@@ -87,7 +87,7 @@
             <td><div align="center"><img src="/Public/dianyun/img/4.png" width="50" height="50"></div></td>
           </tr>
           <tr>
-            <td><div align="center">账户资料</div></td>
+            <td><div align="center" onclick="show('<?php echo U('Index/Index/personal');?>')">账户资料</div></td>
             <td><div align="center">帮助中心</div></td>
             <td><div align="center">我的伙伴</div></td>
             <td><div align="center" onclick="show('<?php echo U('Index/Index/tgm');?>');">推荐好友</div></td>
@@ -156,7 +156,7 @@
 
         </div>
       </div> 
-    </div> 
+    </div> o
   
 
 </body>
