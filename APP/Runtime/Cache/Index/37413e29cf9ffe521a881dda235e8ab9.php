@@ -14,6 +14,7 @@
     <link rel="stylesheet" href="/Public/dianyun/css/framework7.ios.min.css">
     <link rel="stylesheet" href="/Public/dianyun/css/app.css">
     <link rel="stylesheet" href="/Public/dianyun/css/iconfont.css">
+    <script src="/Public/dianyun/shouye/jquery.min.js"></script>
 	<style>
 	.person_quit[data-v-4baa2241] {
 	width:90%;
@@ -30,7 +31,7 @@
 	</style>
 
   </head>
-  <body onLoad="onload()" class="framework7-root">
+  <body  class="framework7-root">
     <div class="panel-overlay"></div>
 	<div class="panel panel-left panel-reveal layout-dark">	    
 	</div>
@@ -89,7 +90,7 @@
             <td><div align="center">账户资料</div></td>
             <td><div align="center">帮助中心</div></td>
             <td><div align="center">我的伙伴</div></td>
-            <td><div align="center">推荐好友</div></td>
+            <td><div align="center" onclick="show('<?php echo U('sem/regSems');?>');">推荐好友</div></td>
           </tr>
           <tr>
             <td><div align="center"><img src="/Public/dianyun/img/5.png" width="50" height="50"></div></td>
@@ -158,4 +159,10 @@
     </div> 
   
 
-</body></html>
+</body>
+<script>
+    function show(obj){
+        window.location.href= obj;
+    }
+</script>
+</html>

@@ -12,9 +12,9 @@ return array(
 	 /* 数据库设置 */
     'DB_TYPE'               =>  'mysql',        // 数据库类型
     'DB_HOST'               =>  '127.0.0.1',    // 服务器地址
-    'DB_NAME'               =>  'ii_vrm888_cn',   // 数据库名
-    'DB_USER'               =>  'ii_vrm888_cn',         // 用户名
-    'DB_PWD'                =>  'KjCX463aScxzCkTS',             // 密码
+    'DB_NAME'               =>  'ivm88',   // 数据库名
+    'DB_USER'               =>  'root',         // 用户名ii_vrm888_cn
+    'DB_PWD'                =>  'root',             // 密码KjCX463aScxzCkTS
     'DB_PORT'               =>  '3306',         // 端口
     'DB_PREFIX'             =>  'ds_',          // 数据库表前缀
     'SESSION_TYPE'          =>  'Db',           //将session写入数据库
