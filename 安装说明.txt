@@ -1,0 +1,17 @@
+第一步、将源码上传到根目录，然后将数据库文件导入到你的数据库。
+
+第二步、修改数据库文件“/APP/Conf/config.php”
+
+第三步登录后台地址“你的域名/admin.php”     账户是：admin    密码：123456
+
+安装完成
+
+
+如果是linux系统搭建：/APP/Modules/systemlogined  改成Systemlogined（首字母大写），否则登录后台会报错
+
+建议使用windows系统更稳定！
+
+
+支付配置：码支付在/codepay里有码支付的配置教程和账号注册
+
+短信接口用的短信宝
