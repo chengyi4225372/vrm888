@@ -19,8 +19,6 @@
 			$this->assign('minfo',$minfo);
 			$this->display();
 		}
-
-
         //提现
         public function tixian(){
             $username = session('username');
@@ -34,7 +32,6 @@
             $this->assign('yiti',$yiti);
             $this->display();
         }
-
 		//提现
 		public function withdrawn(){
 
@@ -211,7 +208,6 @@
 			$this->assign('list',$list);
 			$this->display();
 		}
-
         //全部奖励
         public function award(){
 

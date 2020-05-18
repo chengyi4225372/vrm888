@@ -38,11 +38,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WalletAction.class.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="WalletAction.class.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/APP/Modules/Index/Action/WalletAction.class.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="403">
-              <caret line="308" column="41" selection-start-line="308" selection-start-column="41" selection-end-line="308" selection-end-column="41" />
+            <state relative-caret-position="247">
+              <caret line="209" column="9" selection-start-line="209" selection-start-column="9" selection-end-line="209" selection-end-column="9" />
               <folding>
                 <element signature="n#index#0;n#WalletAction#0;n#!!top" expanded="false" />
                 <element signature="n#tixian#0;n#WalletAction#0;n#!!top" expanded="false" />
@@ -54,91 +54,8 @@
                 <element signature="n#tgaward#0;n#WalletAction#0;n#!!top" expanded="false" />
                 <element signature="n#rechargelog#0;n#WalletAction#0;n#!!top" expanded="false" />
                 <element signature="n#onlinerecharge#0;n#WalletAction#0;n#!!top" expanded="false" />
-                <marker date="1565676546000" expanded="true" signature="12067:12132" placeholder="select * fro... codepay_order" />
+                <marker date="1589806327241" expanded="true" signature="12063:12128" placeholder="select * fro... codepay_order" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RobotAction.class.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/APP/Modules/Index/Action/RobotAction.class.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="179" column="0" selection-start-line="179" selection-start-column="0" selection-end-line="179" selection-end-column="0" />
-              <folding>
-                <element signature="n#index#0;n#RobotAction#0;n#!!top" expanded="false" />
-                <element signature="n#pcontent#0;n#RobotAction#0;n#!!top" expanded="false" />
-                <element signature="n#buy#0;n#RobotAction#0;n#!!top" expanded="false" />
-                <element signature="n#rank#0;n#RobotAction#0;n#!!top" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IndexAction.class.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/APP/Modules/Index/Action/IndexAction.class.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="242" column="27" selection-start-line="242" selection-start-column="24" selection-end-line="242" selection-end-column="27" />
-              <folding>
-                <element signature="n#personal#0;n#IndexAction#0;n#!!top" expanded="false" />
-                <element signature="n#edit#0;n#IndexAction#0;n#!!top" expanded="false" />
-                <element signature="n#card#0;n#IndexAction#0;n#!!top" expanded="false" />
-                <element signature="n#addcardpost#0;n#IndexAction#0;n#!!top" expanded="false" />
-                <element signature="n#zhifu#0;n#IndexAction#0;n#!!top" expanded="false" />
-                <element signature="n#zhifupost#0;n#IndexAction#0;n#!!top" expanded="false" />
-                <element signature="n#wei#0;n#IndexAction#0;n#!!top" expanded="false" />
-                <element signature="n#weipost#0;n#IndexAction#0;n#!!top" expanded="false" />
-                <element signature="n#editname#0;n#IndexAction#0;n#!!top" expanded="false" />
-                <element signature="n#team#0;n#IndexAction#0;n#!!top" expanded="false" />
-                <element signature="n#zhitui#0;n#IndexAction#0;n#!!top" expanded="false" />
-                <element signature="n#tgm#0;n#IndexAction#0;n#!!top" expanded="false" />
-                <element signature="n#fenxiang#0;n#IndexAction#0;n#!!top" expanded="false" />
-                <element signature="n#kefu#0;n#IndexAction#0;n#!!top" expanded="false" />
-                <element signature="n#updatePass#0;n#IndexAction#0;n#!!top" expanded="false" />
-                <element signature="n#updatePasspost#0;n#IndexAction#0;n#!!top" expanded="false" />
-                <element signature="n#logout#0;n#IndexAction#0;n#!!top" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SemAction.class.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/APP/Modules/Index/Action/SemAction.class.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
-              <folding>
-                <element signature="n#_initialize#0;n#SemAction#0;n#!!top" expanded="false" />
-                <element signature="n#regSems#0;n#SemAction#0;n#!!top" expanded="false" />
-                <element signature="n#regSempost#0;n#SemAction#0;n#!!top" expanded="false" />
-                <element signature="n#checkUsername#0;n#SemAction#0;n#!!top" expanded="false" />
-                <element signature="n#createNewAccount#0;n#SemAction#0;n#!!top" expanded="false" />
-                <element signature="n#send_sms_reg_code#0;n#SemAction#0;n#!!top" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IndexAction.class.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/APP/Modules/Systemlogined/Action/IndexAction.class.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="n#index#0;n#IndexAction#0;n#!!top" expanded="false" />
-                <element signature="n#logout#0;n#IndexAction#0;n#!!top" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/APP/Modules/Index/Tpl/default/Wallet/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="158" column="11" selection-start-line="158" selection-start-column="11" selection-end-line="158" selection-end-column="11" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -153,6 +70,7 @@
       <list>
         <option value="$PROJECT_DIR$/APP/Conf/config.php" />
         <option value="$PROJECT_DIR$/APP/Modules/Index/Tpl/default/Wallet/index.html" />
+        <option value="$PROJECT_DIR$/APP/Modules/Index/Action/WalletAction.class.php" />
       </list>
     </option>
   </component>
@@ -432,12 +350,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589802596529</updated>
-      <workItem from="1589802616173" duration="2954000" />
+      <workItem from="1589802616173" duration="3034000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2954000" />
+    <option name="totallyTimeSpent" value="3034000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3" y="0" width="1386" height="788" extended-state="0" />
@@ -609,35 +527,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/APP/Modules/Index/Action/WalletAction.class.php">
+    <entry file="file://$PROJECT_DIR$/APP/Modules/Index/Tpl/default/Wallet/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="308" column="41" selection-start-line="308" selection-start-column="41" selection-end-line="308" selection-end-column="41" />
-          <folding>
-            <element signature="n#index#0;n#WalletAction#0;n#!!top" expanded="false" />
-            <element signature="n#tixian#0;n#WalletAction#0;n#!!top" expanded="false" />
-            <element signature="n#withdrawn#0;n#WalletAction#0;n#!!top" expanded="false" />
-            <element signature="n#withpost#0;n#WalletAction#0;n#!!top" expanded="false" />
-            <element signature="n#withdrawnlog#0;n#WalletAction#0;n#!!top" expanded="false" />
-            <element signature="n#award#0;n#WalletAction#0;n#!!top" expanded="false" />
-            <element signature="n#llaward#0;n#WalletAction#0;n#!!top" expanded="false" />
-            <element signature="n#tgaward#0;n#WalletAction#0;n#!!top" expanded="false" />
-            <element signature="n#rechargelog#0;n#WalletAction#0;n#!!top" expanded="false" />
-            <element signature="n#onlinerecharge#0;n#WalletAction#0;n#!!top" expanded="false" />
-            <marker date="1565676546000" expanded="true" signature="12067:12132" placeholder="select * fro... codepay_order" />
-          </folding>
+        <state relative-caret-position="323">
+          <caret line="158" column="11" selection-start-line="158" selection-start-column="11" selection-end-line="158" selection-end-column="11" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/APP/Modules/Index/Action/RobotAction.class.php">
+    <entry file="file://$PROJECT_DIR$/APP/Modules/Systemlogined/Action/IndexAction.class.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="179" column="0" selection-start-line="179" selection-start-column="0" selection-end-line="179" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#index#0;n#RobotAction#0;n#!!top" expanded="false" />
-            <element signature="n#pcontent#0;n#RobotAction#0;n#!!top" expanded="false" />
-            <element signature="n#buy#0;n#RobotAction#0;n#!!top" expanded="false" />
-            <element signature="n#rank#0;n#RobotAction#0;n#!!top" expanded="false" />
+            <element signature="n#index#0;n#IndexAction#0;n#!!top" expanded="false" />
+            <element signature="n#logout#0;n#IndexAction#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -653,17 +557,6 @@
             <element signature="n#checkUsername#0;n#SemAction#0;n#!!top" expanded="false" />
             <element signature="n#createNewAccount#0;n#SemAction#0;n#!!top" expanded="false" />
             <element signature="n#send_sms_reg_code#0;n#SemAction#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/APP/Modules/Systemlogined/Action/IndexAction.class.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#index#0;n#IndexAction#0;n#!!top" expanded="false" />
-            <element signature="n#logout#0;n#IndexAction#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -694,11 +587,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/APP/Modules/Index/Tpl/default/Wallet/index.html">
+    <entry file="file://$PROJECT_DIR$/APP/Modules/Index/Action/RobotAction.class.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="158" column="11" selection-start-line="158" selection-start-column="11" selection-end-line="158" selection-end-column="11" />
-          <folding />
+        <state relative-caret-position="228">
+          <caret line="177" column="0" selection-start-line="177" selection-start-column="0" selection-end-line="177" selection-end-column="0" />
+          <folding>
+            <element signature="n#index#0;n#RobotAction#0;n#!!top" expanded="false" />
+            <element signature="n#pcontent#0;n#RobotAction#0;n#!!top" expanded="false" />
+            <element signature="n#buy#0;n#RobotAction#0;n#!!top" expanded="false" />
+            <element signature="n#rank#0;n#RobotAction#0;n#!!top" expanded="false" />
+            <element signature="n#robot#0;n#RobotAction#0;n#!!top" expanded="false" />
+            <element signature="n#jiesuan#0;n#RobotAction#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP/Modules/Index/Action/WalletAction.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="209" column="9" selection-start-line="209" selection-start-column="9" selection-end-line="209" selection-end-column="9" />
+          <folding>
+            <element signature="n#index#0;n#WalletAction#0;n#!!top" expanded="false" />
+            <element signature="n#tixian#0;n#WalletAction#0;n#!!top" expanded="false" />
+            <element signature="n#withdrawn#0;n#WalletAction#0;n#!!top" expanded="false" />
+            <element signature="n#withpost#0;n#WalletAction#0;n#!!top" expanded="false" />
+            <element signature="n#withdrawnlog#0;n#WalletAction#0;n#!!top" expanded="false" />
+            <element signature="n#award#0;n#WalletAction#0;n#!!top" expanded="false" />
+            <element signature="n#llaward#0;n#WalletAction#0;n#!!top" expanded="false" />
+            <element signature="n#tgaward#0;n#WalletAction#0;n#!!top" expanded="false" />
+            <element signature="n#rechargelog#0;n#WalletAction#0;n#!!top" expanded="false" />
+            <element signature="n#onlinerecharge#0;n#WalletAction#0;n#!!top" expanded="false" />
+            <marker date="1589806327241" expanded="true" signature="12063:12128" placeholder="select * fro... codepay_order" />
+          </folding>
         </state>
       </provider>
     </entry>
