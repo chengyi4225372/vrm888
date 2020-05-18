@@ -103,7 +103,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SemAction.class.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SemAction.class.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/APP/Modules/Index/Action/SemAction.class.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="145">
@@ -120,11 +120,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="IndexAction.class.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/APP/Modules/Systemlogined/Action/IndexAction.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="n#index#0;n#IndexAction#0;n#!!top" expanded="false" />
+                <element signature="n#logout#0;n#IndexAction#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/APP/Modules/Index/Tpl/default/Wallet/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+            <state relative-caret-position="323">
+              <caret line="158" column="11" selection-start-line="158" selection-start-column="11" selection-end-line="158" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -383,6 +396,32 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+  </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
@@ -393,12 +432,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589802596529</updated>
-      <workItem from="1589802616173" duration="2134000" />
+      <workItem from="1589802616173" duration="2954000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2134000" />
+    <option name="totallyTimeSpent" value="2954000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3" y="0" width="1386" height="788" extended-state="0" />
@@ -513,17 +552,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/APP/Modules/Systemlogined/Action/IndexAction.class.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#index#0;n#IndexAction#0;n#!!top" expanded="false" />
-            <element signature="n#logout#0;n#IndexAction#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/APP/Modules/Index/Tpl/default/Login/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-684">
@@ -564,40 +592,6 @@
             <element signature="n#checkVerify#0;n#LoginAction#0;n#!!top" expanded="false" />
             <element signature="n#checkUsername#0;n#LoginAction#0;n#!!top" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/APP/Modules/Index/Action/IndexAction.class.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="242" column="27" selection-start-line="242" selection-start-column="24" selection-end-line="242" selection-end-column="27" />
-          <folding>
-            <element signature="n#personal#0;n#IndexAction#0;n#!!top" expanded="false" />
-            <element signature="n#edit#0;n#IndexAction#0;n#!!top" expanded="false" />
-            <element signature="n#card#0;n#IndexAction#0;n#!!top" expanded="false" />
-            <element signature="n#addcardpost#0;n#IndexAction#0;n#!!top" expanded="false" />
-            <element signature="n#zhifu#0;n#IndexAction#0;n#!!top" expanded="false" />
-            <element signature="n#zhifupost#0;n#IndexAction#0;n#!!top" expanded="false" />
-            <element signature="n#wei#0;n#IndexAction#0;n#!!top" expanded="false" />
-            <element signature="n#weipost#0;n#IndexAction#0;n#!!top" expanded="false" />
-            <element signature="n#editname#0;n#IndexAction#0;n#!!top" expanded="false" />
-            <element signature="n#team#0;n#IndexAction#0;n#!!top" expanded="false" />
-            <element signature="n#zhitui#0;n#IndexAction#0;n#!!top" expanded="false" />
-            <element signature="n#tgm#0;n#IndexAction#0;n#!!top" expanded="false" />
-            <element signature="n#fenxiang#0;n#IndexAction#0;n#!!top" expanded="false" />
-            <element signature="n#kefu#0;n#IndexAction#0;n#!!top" expanded="false" />
-            <element signature="n#updatePass#0;n#IndexAction#0;n#!!top" expanded="false" />
-            <element signature="n#updatePasspost#0;n#IndexAction#0;n#!!top" expanded="false" />
-            <element signature="n#logout#0;n#IndexAction#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/APP/Modules/Index/Tpl/default/Wallet/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -660,6 +654,51 @@
             <element signature="n#createNewAccount#0;n#SemAction#0;n#!!top" expanded="false" />
             <element signature="n#send_sms_reg_code#0;n#SemAction#0;n#!!top" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP/Modules/Systemlogined/Action/IndexAction.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#index#0;n#IndexAction#0;n#!!top" expanded="false" />
+            <element signature="n#logout#0;n#IndexAction#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP/Modules/Index/Action/IndexAction.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="242" column="27" selection-start-line="242" selection-start-column="24" selection-end-line="242" selection-end-column="27" />
+          <folding>
+            <element signature="n#personal#0;n#IndexAction#0;n#!!top" expanded="false" />
+            <element signature="n#edit#0;n#IndexAction#0;n#!!top" expanded="false" />
+            <element signature="n#card#0;n#IndexAction#0;n#!!top" expanded="false" />
+            <element signature="n#addcardpost#0;n#IndexAction#0;n#!!top" expanded="false" />
+            <element signature="n#zhifu#0;n#IndexAction#0;n#!!top" expanded="false" />
+            <element signature="n#zhifupost#0;n#IndexAction#0;n#!!top" expanded="false" />
+            <element signature="n#wei#0;n#IndexAction#0;n#!!top" expanded="false" />
+            <element signature="n#weipost#0;n#IndexAction#0;n#!!top" expanded="false" />
+            <element signature="n#editname#0;n#IndexAction#0;n#!!top" expanded="false" />
+            <element signature="n#team#0;n#IndexAction#0;n#!!top" expanded="false" />
+            <element signature="n#zhitui#0;n#IndexAction#0;n#!!top" expanded="false" />
+            <element signature="n#tgm#0;n#IndexAction#0;n#!!top" expanded="false" />
+            <element signature="n#fenxiang#0;n#IndexAction#0;n#!!top" expanded="false" />
+            <element signature="n#kefu#0;n#IndexAction#0;n#!!top" expanded="false" />
+            <element signature="n#updatePass#0;n#IndexAction#0;n#!!top" expanded="false" />
+            <element signature="n#updatePasspost#0;n#IndexAction#0;n#!!top" expanded="false" />
+            <element signature="n#logout#0;n#IndexAction#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP/Modules/Index/Tpl/default/Wallet/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="158" column="11" selection-start-line="158" selection-start-column="11" selection-end-line="158" selection-end-column="11" />
+          <folding />
         </state>
       </provider>
     </entry>
